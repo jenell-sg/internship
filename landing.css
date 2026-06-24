@@ -1,0 +1,92 @@
+body{
+    background-color: beige;
+}
+.text{
+    margin-left:150px;
+    margin-top:140px;
+    width:500px;
+    padding-top:100px;
+}
+.text h1{
+    font-size: 50px;
+    color: #8a9462;
+    padding-left: 10%;
+}
+
+.text p{
+    font-size: 20px;
+    color: #8a9462; 
+    text-align: center;  
+}
+.image{
+    position:absolute;
+    right:150px;
+    top:180px;
+    padding-top:5px;
+}
+.box{
+    background-image: url("./Sage_green_mid_century_geometric_pattern_by_Miss-Belle___Redbubble-removebg-preview.png");
+    position:absolute;
+    right:10%;
+    padding:0;
+    margin:0;
+    border:none;
+    border-radius:20px;
+}
+.text button{
+    background-color:rgb(113, 156, 113);
+    border:none;
+    border-radius:20px;
+    width:150px;
+    height:45px;
+    display:block;
+    margin:20px auto;
+    color:beige;
+    font-size:20px;
+}
+.text h1{
+    text-align: center;
+    margin:0;
+}
+ul {
+   list-style-type: none;
+    margin: 0;
+    padding: 0 50px;
+    background-color: rgb(147, 183, 147);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    box-sizing: border-box;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: rgb(129, 175, 129);
+}
+.logo{
+    font-size:30px;
+}
+.logo a {
+    color:white;
+}
+.search img{
+    width:50px;
+    height:50px;
+}
+.search{
+    margin-left:200px;
+}
+.l1{
+    font-size: 20px;
+}
